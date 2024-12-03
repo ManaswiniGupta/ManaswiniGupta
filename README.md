@@ -1,18 +1,18 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
 
   <img src="./github.gif" width="100"/>
 
-</div>
+</div> -->
 
-# Hello !<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+# Hello !<img src="./party-github.gif" width="30"/> 
 My name is Manaswini Gupta.Currently pursuing my Master's in Data Science from Indian Institute of Technology,Lucknow.I am eager to use my AI knowledge over the real world.
 
-[![](https://visitcount.itsvg.in/api?id=d01mittal&icon=5&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ManaswiniGupta&icon=5&color=11)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ManaswiniGupta&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img align="right" alt="coding" width="375" height="250" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<img align="right" alt="coding" width="500" height="280" src="./anime-girl-working-3840x2160-14870.jpeg">
 
 ###
 
@@ -148,11 +148,11 @@ My name is Manaswini Gupta.Currently pursuing my Master's in Data Science from I
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
-<!--Footer--> 
+<!--Footer 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
+-->
 <!--
 **ManaswiniGupta/ManaswiniGupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
