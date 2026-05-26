@@ -43,10 +43,10 @@ LinkedIn
 
 <td align="center" width="120">
 <a href="https://github.com/ManaswiniGupta">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br>
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="50"/><br>
 GitHub
-</a>
 </td>
+
 
 <td align="center" width="120">
 <a href="https://manaswinigupta.github.io/Portfolio/">
@@ -486,7 +486,6 @@ Seaborn
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0F172A&height=120&section=footer" width="100%"/>
 
 
 
