@@ -69,6 +69,13 @@ Kaggle
 </a>
 </td>
 
+<td align="center" width="120">
+<a href="https://github.com/ManaswiniGupta/Portfolio/blob/main/assets/resume.pdf">
+<img src="https://cdn.simpleicons.org/libreofficewriter/BBDDE5" width="50"/><br>
+Resume
+</a>
+</td>
+
 </tr>
 </table>
 
