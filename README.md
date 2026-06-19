@@ -1,7 +1,7 @@
 <h2 align="center">Manaswini Gupta</h2>
 <div align="center"> 
  
-<img src="https://readme-typing-svg.demolab.com? font=Fira+Code&size=30&duration=2800&pause=1200&color=6366F1&center=true&vCenter=true&width=1000&lines=Designing+Enterprise+AI;AI+Systems+Engineer+%7C+GenAI+Builder;Agentic+AI+%7C+LLMOps+%7C+AI+Infrastructure;Building+Production-Grade+Intelligent+Systems" alt="Typing SVG" /> 
+<img src="https://readme-typing-svg.demolab.com/? font=Fira+Code&size=30&duration=2800&pause=1200&color=6366F1&center=true&vCenter=true&width=1000&lines=Designing+Enterprise+AI;AI+Systems+Engineer+%7C+GenAI+Builder;Agentic+AI+%7C+LLMOps+%7C+AI+Infrastructure;Building+Production-Grade+Intelligent+Systems" alt="Typing SVG" /> 
 
 <!-- <img src="party-github.gif" width="10%" alt="Anime Cyber Banner"/> -->
 
